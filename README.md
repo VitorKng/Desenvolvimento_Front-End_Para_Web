@@ -32,5 +32,7 @@ Desenvolvimento_Front-End_Para_Web/
 ├── js/              # Scripts e interatividade da aplicação
 └── img/             # Imagens e recursos visuais
 ````
+# 👨‍💻 Perfil 
 www.linkedin.com/in/vitor-oliveira-alvess-2318303b5
+vitoroliveiraalves06@gmail.com
 
