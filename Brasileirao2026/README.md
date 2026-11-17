@@ -2,7 +2,7 @@
 
 Site estático sobre o Campeonato Brasileiro de 2026, com informações sobre a competição, galeria de fotos, tabela de classificação e histórico de campeões.
 
-🔗 **Site no ar:** `https://VitorKng.github.io/Brasileirao2026/`
+🔗 **Site no ar:** `https://VitorKng.github.io/Brasileirao2026`
 
 > Troque o link acima pelo endereço real depois de ativar o GitHub Pages.
 
