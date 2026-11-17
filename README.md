@@ -6,8 +6,6 @@
 
 Repositório dedicado aos projetos e atividades práticas desenvolvidas na disciplina de **Desenvolvimento Front-End Para Web**, com foco na estruturação semântica, estilização responsiva e publicação de páginas estáticas.
 
-🔗 **Acesse o projeto online:** [vitorkng.github.io/Desenvolvimento_Front-End_Para_Web/](https://vitorkng.github.io/Desenvolvimento_Front-End_Para_Web/)
-
 ---
 
 ## 📋 Sobre o Projeto
