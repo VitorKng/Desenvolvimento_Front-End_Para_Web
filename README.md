@@ -12,7 +12,6 @@ Repositório dedicado aos projetos e atividades práticas desenvolvidas na disci
 
 Este projeto consiste em uma aplicação web estática desenvolvida para aplicar conceitos fundamentais de criação de interfaces, organização de layouts e boas práticas de desenvolvimento front-end.
 
-*(Dica: Substitua este parágrafo por uma breve descrição do tema do seu site — por exemplo, se é uma landing page, um portfólio, uma loja fictícia, etc.)*
 
 ### ✨ Funcionalidades e Destaques
 - Estruturação semântica utilizando **HTML5**
